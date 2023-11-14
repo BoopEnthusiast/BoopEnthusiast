@@ -1,4 +1,10 @@
-### Hi there 👋
+# YO!!!
+Welcome to me!  
+My website -> [boop.website](https://boop.website)
+
+She/They  
+Reach out to for anything XR/VR!  
+Probably has a bunch of semi-empty repos that *had* plans
 
 <!--
 **BoopEnthusiast/BoopEnthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
