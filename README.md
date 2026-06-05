@@ -1,22 +1,7 @@
-# YO!!!
-Welcome to me!  
-# My websites -> [boop.website](https://boop.website) [boop.cool](https://boop.cool)
+G'day, I'm Boop or BoopEnthusiast online. My real and legal first name is Ai.
 
-She/They  
-Reach out to for anything game-related, especially VR!
-Probably has a bunch of semi-empty repos that *had* plans, but no longer!
+# My website -> [boop.website](https://boop.website)
 
-<!--
-**BoopEnthusiast/BoopEnthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+She/Her
+Reach out to for anything game-related, or just anything software-related. I'm down for websites, applications, bots, graphics stuff, and basically whatever!
+Probably has a bunch of semi-empty repos that *had* plans.
