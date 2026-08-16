@@ -1,4 +1,4 @@
-G'day, I'm Boop or BoopEnthusiast online. My real and legal first name is Ai.
+G'day, I'm Boop or BoopEnthusiast online. My real name is Ai.
 
 # My website -> [boop.website](https://boop.website)
 
